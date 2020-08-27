@@ -10,3 +10,10 @@ COVID-19 Detection based on Chest X-rays using two Transfer Learning algorithms:
 
 <img src = "output/inceptionv3_1.png" width = "550" height="350"/> 
 <img src = "output/inceptionv3_2.png" width = "550" height="350"/> 
+
+
+# Dataset:
+
+The dataset for the project was gathered from two sources:
+
+1) Chest X-ray images (1000 images) were obtained from: https://github.com/ieee8023/covid-chestxray-dataset
